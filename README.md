@@ -14,3 +14,5 @@ The three main activities I've been doing were delivery pizza, working on my ass
 What are the three most important tools/strategies you use for organizing your work?
 
 Writing down a to do list, having a calendar and scehduling out my work and staying consistent. 
+
+In summary i try explaining data science as looking for the best data to make the best decisions, in the past one month i've been productive by delivering pizzas, learning new stuff and working on assignments and lastly having a to do list, a calendar and staying consistent are important to staying on track.
